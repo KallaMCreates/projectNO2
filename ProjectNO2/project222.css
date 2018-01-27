@@ -1,3 +1,7 @@
-.project1{
-    color: #ffff00;
+.project1 {
+    font-size: 36px;
+    text-align: center;
+    border: 2px solid #f14b5c;
+    color: #f14b5c; /* kolor pomarańczowy */
+    background-color: #FFE7EC; /* kolor jasnoróżowy */
 }
