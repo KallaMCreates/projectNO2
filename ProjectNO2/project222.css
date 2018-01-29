@@ -1,12 +1,33 @@
-.project1 {
-    font-size: 36px;
+
+header {
+    font-size: 40px;
     text-align: center;
-    border: 2px solid #f14b5c;
+    border: 6px double #f14b5c;
     color: #f14b5c; /* kolor pomarańczowy */
-    background-color: #FFE7EC; /* kolor jasnoróżowy */
+    width:100%;
+    height: auto;
+}
+section{
+    text-align: center;
+    background-color: white;
+    border: 5px double black;
+    width:68%;
+    height: auto;
+    float:left;
+}
+aside{
+    color: white;
+    width: 28%;
+    height: auto;
+    float: right;
+    border: 4px double #f14b5c;
 }
 body{
-    background-color: darksalmon;
+    background-image: url("https://initiate.alphacoders.com/images/303/cropped-1440-900-303828.jpg?4694");
+    max-width: 940px;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+    padding: 20px;
 }
 #page{
     max-width: 940px;
